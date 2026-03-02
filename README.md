@@ -9,7 +9,7 @@
 
 Открытый порт 8088
 
-![Скрин порта](../image%20copy%205.png)
+![Скрин порта](image%20copy%205.png)
 
 
 
@@ -20,12 +20,12 @@ docker run -d -p 8088:80 --name welcome-to-docker docker/welcome-to-docker
 
 
 
-![Скрин контейнера](../image.png)
+![Скрин контейнера](image.png)
 
 [Открыть http://localhost:8088 в браузере](http://localhost:8088)
 
 Скрин контейнера в браузере
-![скрин браузера](../image%20copy.png)
+![скрин браузера](image%20copy.png)
 
 
 
@@ -44,7 +44,7 @@ uname -a
 
 top
 ```
-![скрин ОС](../image%20copy%202.png)
+![скрин ОС](image%20copy%202.png)
 
 
 
@@ -52,7 +52,7 @@ top
 ```shell
 apk update && apk upgrade
 ```
-![скрин приложений](../image%20copy%203.png)
+![скрин приложений](image%20copy%203.png)
 
 
 
@@ -63,7 +63,7 @@ apk add fastfetch
 ```shell
 fastfetch
 ```
-![Скрин фастфетча](../image%20copy%204.png)
+![Скрин фастфетча](image%20copy%204.png)
 
 
 
